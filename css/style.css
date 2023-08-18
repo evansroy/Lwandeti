@@ -157,7 +157,10 @@ section{
   color: var(--primary-color);
   padding-right: .5rem;
 }
-
+.logo img{
+  width: 3em;
+  
+}
 .header .navbar a{
   font-size: 1.7rem;
   color: var(--black);
